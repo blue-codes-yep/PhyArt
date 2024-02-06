@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#loading {
+    display: block; /* Change to none after initial setup */
+}
+
+#content {
+    text-align: center;
+}
